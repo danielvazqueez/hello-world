@@ -1,2 +1,2 @@
 # hello-world
-Repository for ideas
+Hello, my name is Daniel Vazquez. I like soccer and technolgy.
